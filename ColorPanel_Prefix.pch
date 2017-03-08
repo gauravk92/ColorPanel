@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'ColorPanel' target in the 'ColorPanel' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+    #import "GKKit.h"
+#endif

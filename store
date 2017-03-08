@@ -1,0 +1,16 @@
+*****************   50% Off First Week Sale   ********************
+
+It's time, once and for all, to stop messing around with custom little color pickers. OS X ships with one of the finest color pickers in all the land, complete with plugin support. The only thing to do is load it up as a separate application, that's where ColorPanel comes in...
+
+ColorPanel cleanly wraps Apple's default NSColorPanel picker with a minimalist app to harness the power without any bloat or extraneous features. ColorPanel offers a high customizability using Cocoa's built-in advanced features. Control the floating vs regular mode of the color picker, as well as the standard size to use for the window. This is a pro tool in a simple light weight app.
+
+Features:
+- Use Apple's builtin color picker as a stand alone app
+- Control all aspects of the experience with advanced settings
+- Set window floating on startup
+- Toggle window floating
+- Set specified window size on startup
+- With many more features coming soon ...
+
+Supports:
+- All NSColorPanel plugins (including outgoing network access)
