@@ -8,6 +8,6 @@ Project started in 2010 as a easy access utility for bringing up a color picker 
 
 ![ColorPanel Icon](https://github.com/gauravk92/ColorPanel/raw/master/Resources/ColorWheel-1.png)
 
-![First Screenshot](https://github.com/gauravk92/ColorPanel/raw/master/misc/0x0ss.png)
+![First Screenshot](https://github.com/gauravk92/ColorPanel/raw/master/misc/0x0ss.jpg)
 
-![Second Screenshot](https://github.com/gauravk92/ColorPanel/raw/master/misc/0x0ss-1.png)
+![Second Screenshot](https://github.com/gauravk92/ColorPanel/raw/master/misc/0x0ss-1.jpg)
