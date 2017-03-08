@@ -6,7 +6,7 @@ Easy access to an NSColorPanel on Mac. Options for controlling window size, floa
 
 Project started in 2010 as a easy access utility for bringing up a color picker anywhere in the system.
 
-![ColorPanel Icon](https://github.com/gauravk92/ColorPanel/raw/master/Resources/ColorWheel-1.png)
+<img src="https://github.com/gauravk92/ColorPanel/raw/master/Resources/ColorWheel-1.png" width="100"/>
 
 ![First Screenshot](https://github.com/gauravk92/ColorPanel/raw/master/misc/0x0ss.jpg)
 
